@@ -1,0 +1,5 @@
+{
+    "name" : "Universal",
+    "image":"mcr.microsoft.com/devcontainers/universal:2",
+    "postCreateCommand": "$(git rev-parse --show-toplevel)/.devcontainer/postCreate.sh"
+}

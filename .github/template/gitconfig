@@ -1,0 +1,3 @@
+[template]
+	repo = kea-dev/planetscale
+	issue-label = template
